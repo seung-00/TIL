@@ -130,6 +130,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Debouncing vs Throttling](https://www.notion.so/Debouncing-vs-Throttling-7b83b46cecc04322be68a785f2220ab2)
 * [Intersection Observer API](https://www.notion.so/Intersection-Observer-API-5b62b9bdc4e14ce19e56070d973c1e4c)
 * [이벤트 버블링과 event.currentTarget](https://www.notion.so/event-currentTarget-3382423eb11145188afd451860cb6835)
+* [SVG](https://www.notion.so/SVG-696b0fcf04194063ab7c9e33546deeba)
 
 ---
 
