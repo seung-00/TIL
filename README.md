@@ -16,6 +16,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Computer Network](https://www.notion.so/8ae95307493a40b1aca49eda99b0c447?v=0ff1620611fc4c1da0610aca0535d287)
   * [Algorithm](https://www.notion.so/d675c78e95214ee6995a855af57358a9?v=f9bb420f8a2d4a61836b4e950cb52152)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
+  * [Software Engineering](Software Engineering)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Security](https://www.notion.so/f5b01cc95e74420e8bf034fcc863636e?v=11511cab828f4ce4b9bf6c878699927f)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
@@ -83,6 +84,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [JOIN](https://www.notion.so/JOIN-a9d51b5bea354c19b73c57f779dd130f)
 * [실습: 캐글 데이터 활용](https://www.notion.so/199d7f331bba452ba23d410dbb31e0d8)
 * [sql 코테 대비](https://www.notion.so/SQL-5335e1839c85425986103a2764241c43)
+
+---
+
+### Software Engineering
+
+* [TDD(Test Driven Development)](https://www.notion.so/Observer-Pattern-e35e2bd8bdeb4b88a4b4556a10cb2ac8)
+* [Observer Pattern](https://www.notion.so/Observer-Pattern-e35e2bd8bdeb4b88a4b4556a10cb2ac8)
 
 ---
 
